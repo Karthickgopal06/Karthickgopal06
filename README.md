@@ -26,8 +26,10 @@ I'm a passionate **Frontend Developer** with a background in **Computer Science 
 You can check out some of my projects below:
 
 - **Project 1**: [Personal-Portfolio](https://karthick-portfolio-me.netlify.app/)
-- **Project 2**: [Nextway](https://karthick06-dev.neocities.org/nextway/home)
-- **Project 3**: [Instagram-profileview](https://codepen.io/Karthick-dev/pen/poaodRv)
+- **Project 2**: [Cooking-Recipe](https://ashukitchen-recipe.netlify.app/)
+- **Project 3**: [Nextway](https://karthick06-dev.neocities.org/nextway/home)
+- **Project 4**: [Instagram-profileview](https://codepen.io/Karthick-dev/pen/poaodRv)
+  
 
 ## Contact
 
