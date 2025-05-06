@@ -32,7 +32,7 @@ You can check out some of my projects below:
   
 
 ## Contact
-
+ python react css3 html5 bootstrap nodejs reactnative sqlite azure django
 - 📧 Email: [2003g.karthick@gmail.com](mailto:2003g.karthick@gmail.com)
 - 🌐 Codepen: [@Karthick-dev](https://codepen.io/karthick-dev)
 - 💬 LinkedIn: [karthick G](https://www.linkedin.com/in/karthick006/)
